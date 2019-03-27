@@ -3,6 +3,7 @@ html, body, #wrapper {
     width: 100%;
     overflow: hidden;
     background: none;
+    zoom: 0.85;
 }
 
 body {
